@@ -1,4 +1,6 @@
-本ドキュメントは「ts-kintone-package」の公式ドキュメントです。  
+#　 「ts-kintone-package」公式ドキュメント
+
+本ドキュメントは「[ts-kintone-package](https://github.com/ShunMitsuoka/ts-kintone-package)」の公式ドキュメントです。  
 個人で開発を行っているため、ドキュメントの整備は少しずつ行っていきますのでご了承下さい。
   
 本ライブラリは以下の層から成り立ちます。  
