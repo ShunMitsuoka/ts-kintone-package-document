@@ -1,7 +1,9 @@
 #  「ts-kintone-package」公式ドキュメント
 
 本ドキュメントは「[ts-kintone-package](https://github.com/ShunMitsuoka/ts-kintone-package)」の公式ドキュメントです。  
-個人で開発を行っているため、ドキュメントの整備は少しずつ行っていきますのでご了承下さい。
+個人で開発を行っているため、ドキュメントの整備は少しずつ行っていきますのでご了承下さい。  
+本ドキュメントに対するお問い合わせ、ご要望等は以下からご連絡ください。  
+[CONTACT HERE](https://tri-an-gout.com/contact)
 
 ## ライブラリ詳細 
 詳しいライブラリの詳細は以下を参照ください。
