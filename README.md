@@ -2,6 +2,12 @@
 
 本ドキュメントは「[ts-kintone-package](https://github.com/ShunMitsuoka/ts-kintone-package)」の公式ドキュメントです。  
 個人で開発を行っているため、ドキュメントの整備は少しずつ行っていきますのでご了承下さい。
+
+## ライブラリ詳細 
+詳しいライブラリの詳細は以下を参照ください。
+* [Models](./Domain/Models/model.md)
+
+## ライブラリ概要
   
 本ライブラリは以下の層から成り立ちます。  
 * Infrastructure層  
