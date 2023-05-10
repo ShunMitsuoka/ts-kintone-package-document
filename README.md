@@ -19,6 +19,7 @@
 ライブラリを使用時にメインで使用することになるのは  
 * Domain層のModels  
 * Infrastructure層のRepository  
+
 です。
 
 ## Domain層のModelsについて
