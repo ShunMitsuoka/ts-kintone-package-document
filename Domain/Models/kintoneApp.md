@@ -108,7 +108,8 @@ kintoneアプリ
 
 ### `getFieldsMap()`
 フィールドをMap形式で取得する。  
-`KintoneFields`が内部に持つ`Map<string, KintoneField>`を直接取得します。
+`KintoneFields`が内部に持つ`Map<string, KintoneField>`を直接取得します。  
+Mapのキー(string)はフィールドコードになります。
 * 引数　：　`なし`
 
 * 戻り値　：　`Map<string, KintoneField>`

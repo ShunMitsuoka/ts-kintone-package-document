@@ -76,3 +76,7 @@ fields.forEach(field => {
     options.push('<option value="'+fieldCode+'">'+label+'</option>')
 });
 ```
+
+## その他の使用例
+
+その他の使用例は[こちら](./Examples/example.md)から確認ください。
